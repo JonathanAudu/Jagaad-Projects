@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Management System
 
 The Student Management System is a web-based application that allows users to manage student records. It provides features for adding, updating, and deleting student information, as well as displaying a list of students.
